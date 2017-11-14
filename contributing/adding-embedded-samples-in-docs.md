@@ -5,7 +5,7 @@ documents, like the ones in the [Create Responsive AMP
 pages](https://www.ampproject.org/docs/guides/responsive/responsive_design#example:-embedding-a-youtube-video)
 guide.
 
-<img src="sample-embed.gif">
+<img src="sample-embed.gif" width="128">
 
 
 ## Prerequisites
